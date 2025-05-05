@@ -56,9 +56,9 @@ The project relies on the following Python libraries:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/AByteOfAI/MFG_598_Final-Project_spring.25
-    cd https://github.com/AByteOfAI/MFG_598_Final-Project_spring.25
-    ```
+    git clone [https://github.com/AByteOfAI/MFG_598_Final-Project_spring.25](https://github.com/AByteOfAI/MFG_598_Final-Project_spring.25)
+    cd MFG_598_Final-Project_spring.25
+    ````
 
 2.  **Create a virtual environment (recommended):**
     ```bash
